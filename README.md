@@ -1,0 +1,1 @@
+This is an vault of [Obsidian](https://obsidian.md/).
