@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "web/favicon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "web/favicon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "web/favicon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "web/favicon.md"
               }
             }
           }
@@ -148,9 +148,13 @@
   },
   "active": "9e372280845a710b",
   "lastOpenFiles": [
+    "web/tailwind-css.md",
+    "web/sveltekit.md",
+    "Index.md",
+    "web/favicon.md",
+    "web",
     "languages/Markdown.md",
     "terminology/Request for Comments (RFC).md",
-    "Index.md",
     "terminology",
     "README.md"
   ]
