@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/favicon.md",
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7617dbf0d483f7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "databases/Replication.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/favicon.md",
+                "file": "databases/Replication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web/favicon.md",
+                "file": "databases/Replication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/favicon.md"
+                "file": "databases/Replication.md"
               }
             }
           }
@@ -146,12 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e372280845a710b",
+  "active": "a7617dbf0d483f7f",
   "lastOpenFiles": [
-    "web/tailwind-css.md",
-    "web/sveltekit.md",
+    "databases/Sharding.md",
+    "databases/Replication.md",
+    "databases/Partitioning.md",
+    "Tech Note Template.md",
     "Index.md",
+    "system-design/Database Replication.md",
+    "system-design/Database.md",
+    "databases",
+    "system-design/Untitled.md",
+    "web/tailwind-css.md",
+    "system-design",
     "web/favicon.md",
+    "web/sveltekit.md",
     "web",
     "languages/Markdown.md",
     "terminology/Request for Comments (RFC).md",
